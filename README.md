@@ -1,4 +1,4 @@
-James é um personagem de RPG criado por mim, porém devido a sua complexidade de calculo de atributos e suas limitações dependendo da sua mana, vida e nível, eu criei esse programa para me ajudar durante os jogos.
+James é um personagem de RPG criado por mim, porém devido a sua complexidade de calculo de atributos e suas limitações dependendo da sua mana, vida e nível, eu criei esse programa para me ajudar durante os jogos no ano de 2022 quando estava começando a aprender programação.
 
 Habilidades e Limitações de James
 
